@@ -3,7 +3,7 @@
 <p align="center">Name is Min. <b>Okkar</b> Min</p>
 
 <p align="center">
-  <a href="https://okkar.tk/linkedin">🤝 with me on LinkedIn</a></br>
+  <a href="https://okkar.tk/linkedin">🤝 with me on LinkedIn, let's work on a project together!</a></br>
   <a href="https://okkar.tk/linkedin">Say 👋 on Telegram</a>
  </p>
 
