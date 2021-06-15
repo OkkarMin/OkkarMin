@@ -10,12 +10,17 @@
   </a>
  </p>
 
+-------
+
+📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 JavaScript   18 mins         ███████████████████░░░░░░   75.62 % 
 TypeScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
 ```
 <!--END_SECTION:waka-->
+
+-------
 
 <p align="center">
   <a href="https://github.com/OkkarMin"><img src="https://github-readme-stats.vercel.app/api?username=OkkarMin&hide_border=true&show_icons=true&theme=react" alt="OkkarMin's GitHub stats"></a>
