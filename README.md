@@ -11,6 +11,10 @@
  </p>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   18 mins         ███████████████████░░░░░░   75.62 % 
+TypeScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+```
 <!--END_SECTION:waka-->
 
 <p align="center">
