@@ -27,5 +27,5 @@ Other        37 mins         ▓░░░░░░░░░░░░░░░░
 📈 Total GitHub stats
 
 <p>
-  <a href="https://github.com/OkkarMin"><img src="https://github-readme-stats.vercel.app/api?username=OkkarMin&hide_border=true&show_icons=true&theme=react" alt="OkkarMin's GitHub stats"></a>
+  <a href="https://github.com/OkkarMin"><img src="https://github-readme-stats.vercel.app/api?username=OkkarMin&hide_border=true&show_icons=true&theme=graywhite" alt="OkkarMin's GitHub stats"></a>
 </p>
