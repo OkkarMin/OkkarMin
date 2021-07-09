@@ -2,7 +2,7 @@
 
 <p align="center">Name is Min. <strong>Okkar</strong> Min. Computer Science undergrad from Singapore</p>
 
-<p align="center">I jog my thoughts down on <a href="https://okkarm.in">okkarm.in</a></p>
+<p align="center">Take a look at my site at <a href="https://okkarm.in" target="_blank">okkarm.in</a> and my blog <a href="https://okkarm.in/blog" target="_blank">here</a></p>
 
 <p align="center">
   <a href="https://okkarm.in/linkedin" target='_blank'>
@@ -10,20 +10,24 @@
   </a>
  </p>
 
--------
+---
 
 📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   4 hrs 5 mins    █████████████████▓░░░░░░░   71.16 % 
-JavaScript   47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-JSON         44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript   4 hrs 5 mins    █████████████████▓░░░░░░░   71.16 %
+JavaScript   47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+JSON         44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
+
 <!--END_SECTION:waka-->
 
--------
+---
+
 📈 Total GitHub stats
 
 <p>
