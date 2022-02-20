@@ -16,8 +16,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 16 mins
-
 TypeScript   16 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
