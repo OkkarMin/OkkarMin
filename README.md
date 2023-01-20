@@ -9,23 +9,3 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  </p>
-
----
-
-📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
-📈 Total GitHub stats
-
-<p>
-  <a href="https://github.com/OkkarMin"><img src="https://github-readme-stats.vercel.app/api?username=OkkarMin&hide_border=true&show_icons=true&theme=graywhite" alt="OkkarMin's GitHub stats"></a>
-</p>
